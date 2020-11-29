@@ -15,5 +15,25 @@
       "username": "duypn",
       "email": "duypn@example.com"
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World!",
+      "content": "This is a beautiful day!",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "title": "Test Fake API",
+      "content": "It's so funny",
+      "author": 2
+    },
+    {
+      "id": 3,
+      "title": "I'm making a project with Laravel",
+      "content": "Nothing to show",
+      "author": 3
+    }
   ]
 }

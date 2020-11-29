@@ -1,0 +1,19 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "username": "tunv",
+      "email": "tunv@example.com"
+    },
+    {
+      "id": 2,
+      "username": "daict",
+      "email": "daict@example.com"
+    },
+    {
+      "id": 3,
+      "username": "duypn",
+      "email": "duypn@example.com"
+    }
+  ]
+}

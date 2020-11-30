@@ -35,5 +35,14 @@
       "content": "Nothing to show",
       "author": 3
     }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "author": 1, "comment": "Good!" },
+    { "id": 2, "postId": 1, "author": 2, "comment": "Bad!" },
+    { "id": 3, "postId": 1, "author": 3, "comment": "Rare!" },
+    { "id": 4, "postId": 2, "author": 1, "comment": "Common!" },
+    { "id": 5, "postId": 2, "author": 2, "comment": "Legend!" },
+    { "id": 6, "postId": 2, "author": 3, "comment": "Nothing to say!" },
+    { "id": 7, "postId": 3, "author": 1, "comment": "uhm hmm!" }
   ]
 }

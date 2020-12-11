@@ -45,18 +45,57 @@
     { "id": 6, "postId": 2, "author": 3, "comment": "Nothing to say!" },
     { "id": 7, "postId": 3, "author": 1, "comment": "uhm hmm!" }
   ],
-  "cv":[
+  "cv": {
     "about_me": {
       "name": "Nguyen Van Tu",
       "dob": "19/12/1998",
-      "description" :"My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books"
+      "description": "My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books"
     },
-    "contact":{
-      "phone" : "0971794425",
-      "gmail":"nguyenvantu191298@gmail.com",
-    "outlook":"tunv1998@gmail.com",
-    "address":"99 Nguyen Hau, Tan Phu dist., Ho Chi Minh city",
-    "github":"https://github.com/vantu98"
-    }
-  ]
+    "contact": {
+      "phone": "0971794425",
+      "gmail": "nguyenvantu191298@gmail.com",
+      "outlook": "tunv1998@gmail.com",
+      "address": "99 Nguyen Hau, Tan Phu dist., Ho Chi Minh city",
+      "github": "https://github.com/vantu98"
+    },
+    "education": [
+      {
+        "university": "FPT Polytechnic",
+        "bachelor": "Web Designer",
+        "from": "Mar/2019",
+        "to": "Aug/2021"
+      }
+    ],
+    "skills": {
+      "program_language": ["Javascript", "PHP"],
+      "Framework": ["Laravel", "NodeJS", "React"],
+      "Tools": ["Git", "Visual Studio"]
+    },
+    "exp": [
+      {
+        "company": "Tran Media",
+        "role": "IT Helpdesk",
+        "from": "Aug/2019",
+        "to": "Aug/2020",
+        "description": [
+          "Maintain and organize numerous of ecommerce site (for POD products)",
+          "Create landing page with ladipage.vn",
+          "Run Facebook ads",
+          "Run SEO for site"
+        ]
+      }
+    ],
+    "pet_project": [
+      {
+        "name": "The Booking",
+        "role": "Leader, Front-End Developer",
+        "purpose": "Online room booking web service",
+        "from": "Mar/2020",
+        "to": "Sep/2020",
+        "description": "A website for users, who want to booking a room for best price, for hotel's host, who create room",
+        "teach_stack": ["PHP", "HTML", "CSS", "Git", "Javascript"],
+        "github_url": "https://github.com/vantu98/the_booking__client"
+      }
+    ]
+  }
 }

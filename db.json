@@ -96,6 +96,9 @@
         "teach_stack": ["PHP", "HTML", "CSS", "Git", "Javascript"],
         "github_url": "https://github.com/vantu98/the_booking__client"
       }
-    ]
+    ],
+    "icon":{
+      "phone": "call"
+    }
   }
 }

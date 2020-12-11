@@ -44,5 +44,19 @@
     { "id": 5, "postId": 2, "author": 2, "comment": "Legend!" },
     { "id": 6, "postId": 2, "author": 3, "comment": "Nothing to say!" },
     { "id": 7, "postId": 3, "author": 1, "comment": "uhm hmm!" }
+  ],
+  "cv":[
+    "about_me": {
+      "name": "Nguyen Van Tu",
+      "dob": "19/12/1998",
+      "description" :"My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books"
+    },
+    "contact":{
+      "phone" : "0971794425",
+      "gmail":"nguyenvantu191298@gmail.com",
+    "outlook":"tunv1998@gmail.com",
+    "address":"99 Nguyen Hau, Tan Phu dist., Ho Chi Minh city",
+    "github":"https://github.com/vantu98"
+    }
   ]
 }

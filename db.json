@@ -50,7 +50,7 @@
       "name": "Nguyen Van Tu",
       "dob": "19/12/1998",
       "description": "My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books",
-      "avatar": ""
+      "avatar": "./public/img/avatar_square.jpg"
     },
     "contacts": {
       "phone": {

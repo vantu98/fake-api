@@ -45,18 +45,34 @@
     { "id": 6, "postId": 2, "author": 3, "comment": "Nothing to say!" },
     { "id": 7, "postId": 3, "author": 1, "comment": "uhm hmm!" }
   ],
-  "cv": {
+  "cv_en": {
     "about_me": {
       "name": "Nguyen Van Tu",
       "dob": "19/12/1998",
-      "description": "My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books"
+      "description": "My name is Tu, Nguyen Van Tu - a minimalist guys. Who motivated to constantly develop my skills and grow professionally. I love traveling and falling in the world of books",
+      "avatar": ""
     },
-    "contact": {
-      "phone": "0971794425",
-      "gmail": "nguyenvantu191298@gmail.com",
-      "outlook": "tunv1998@gmail.com",
-      "address": "99 Nguyen Hau, Tan Phu dist., Ho Chi Minh city",
-      "github": "https://github.com/vantu98"
+    "contacts": {
+      "phone": {
+        "icon": "call",
+        "content": "0971794425"
+      },
+      "gmail": {
+        "icon": "mail",
+        "content": "nguyenvantu191298@gmail.com"
+      },
+      "outlook": {
+        "icon": "mail",
+        "content": "tunv1998@outlook.com"
+      },
+      "address": {
+        "icon": "map",
+        "content": "99 Nguyen Hau, Tan Thanh .dist, HCM city"
+      },
+      "github": {
+        "icon": "logo-github",
+        "content": "https://github.com/vantu98"
+      }
     },
     "education": [
       {
@@ -96,9 +112,6 @@
         "teach_stack": ["PHP", "HTML", "CSS", "Git", "Javascript"],
         "github_url": "https://github.com/vantu98/the_booking__client"
       }
-    ],
-    "icon":{
-      "phone": "call"
-    }
+    ]
   }
 }

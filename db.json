@@ -83,11 +83,12 @@
         "to": "Aug/2021"
       }
     ],
-    "skills": {
-      "program_language": ["Javascript", "PHP"],
-      "Framework": ["Laravel", "NodeJS", "React"],
-      "Tools": ["Git", "Visual Studio"]
-    },
+
+    "skills": [
+      { "name": "Programming Language", "content": ["Javascript", "PHP"] },
+      { "name": "Framework", "content": ["Laravel", "NodeJS", "React"] },
+      { "name": "Tools", "content": ["Git", "Github", "Visual Studio"] }
+    ],
     "exp": [
       {
         "company": "Tran Media",
